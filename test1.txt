@@ -1,10 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 4ED0-2059
-
- Directory of C:\Users\toth1davida25\Documents\MyGitExampleProject
-
-2018. 12. 11.  11:08    <DIR>          .
-2018. 12. 11.  11:08    <DIR>          ..
-2018. 12. 11.  11:08                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  92ÿ044ÿ840ÿ960 bytes free
+change 1
